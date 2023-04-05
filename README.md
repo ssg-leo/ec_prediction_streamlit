@@ -1,1 +1,6 @@
-# ec_prediction_streamlit
+# EC Prediction Model Web App
+
+To run the app
+```dash
+streamlit run app.py
+```
